@@ -1,7 +1,7 @@
 # Import the random library to use for the dice later
 import random
 
-# Put all the functions into another file and import them
+# Put all the functions into another file and import themgit
 import functions_lab06
 
 print("    ------------------------------------------------------------------")
